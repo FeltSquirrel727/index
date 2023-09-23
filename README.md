@@ -1,2 +1,2 @@
-# q
-This is X_ StarMC's website
+# index
+网站主页
